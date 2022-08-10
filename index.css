@@ -24,7 +24,7 @@ main {
 .qr-container {
     background-color: hsl(0, 0%, 100%);
     box-sizing: border-box;
-    width: 315px;
+    width: 320px;
     border-radius: 15px;
     padding: 15px;
 }
