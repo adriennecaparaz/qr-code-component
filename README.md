@@ -34,6 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Useful resources
 
 - [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co/) 
+- [CSS fix for 100vh in mobile WebKit](https://css-tricks.com/css-fix-for-100vh-in-mobile-webkit/)
 
 ## Author
 
