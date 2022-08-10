@@ -13,8 +13,6 @@ html {
 
 body {
     margin: auto;
-    min-height: 100vh;
-    min-height: -webkit-fill-available;
     background-color: var(--light-grey);
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
@@ -29,6 +27,7 @@ h1 {
 main {
     display: flex;
     height: 100vh;
+    max-height: -webkit-fill-available;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -58,7 +57,7 @@ main {
 }
 
 footer { 
-    position: absolute;
+    position: fixed;
     bottom: 10px;
     left: 0;
     right: 0;
