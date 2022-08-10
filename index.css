@@ -8,12 +8,12 @@ body {
     color: hsl(220, 15%, 55%);
 }
 
-h2 {
+h1 {
     font-size: 22px;
     color: hsl(218, 44%, 22%);
 }
 
-.content {
+main {
     display: flex;
     height: 100vh;
     flex-direction: column;
@@ -43,7 +43,7 @@ h2 {
     text-align: center;
 }
 
-.attribution { 
+footer { 
     position: absolute;
     bottom: 10px;
     left: 0;
@@ -52,6 +52,6 @@ h2 {
     text-align: center;
 }
     
-.attribution a { 
+footer a { 
     color: hsl(228, 45%, 44%); 
 }
